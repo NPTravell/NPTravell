@@ -1,10 +1,9 @@
 ### Hi, I'm Nathan 👋
 
-
+<br/>
 <p align="center">
   <href="#">Computer Vision Object Detection</a> |
   <href="#">Machine learning</a> |
-  <href="#">Deep learning</a> |
   <href="#">GIS analysis</a> |
   <href="#">Data warehousing ETL</a>
   <br><br>
@@ -20,7 +19,6 @@
 <img align="centre" alt="Python" width="40px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <br><br>
 </p>
-
 <p align="center"><i> 
   Utilising unique data science perspectives acquired from a diverse interdisciplinary career, I provide machine learning solutions to small organisations,          particularly those of environmental nature</i>
 </p>
@@ -39,18 +37,6 @@ Key skills:
 Planned project uploads
 - Higher education student churn model (anonymised and GDPR compliant)
 - MI/BI product hub NLP analysis
-- NHS form digitisation
-- meditation tapp
+- NHS form digitisation (pen and paper to electronic format, sent to the relevant department extracted from text analysis)
+- Meditation app
 - real time Airsoft aim support AI (this is going to be seriously cool)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
