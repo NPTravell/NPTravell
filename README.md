@@ -3,12 +3,6 @@
 
 #### <p align="center"> Computer Vision Object Detection | Machine learning| GIS analysis| Data warehousing ETL </p>
 
-
-
-
-
-
-
 <p align="center">
 <img align="centre" alt="SQL" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/120229/sql.svg" /> 
 <img align="centre" alt="Streamlit" width="40px" style="padding-right:10px;" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" /> 
@@ -45,7 +39,10 @@
 
 Project|Description|Status
 |---|---|---|
-NHS Form Digitisation|Automated conversion of patient forms from pen and paper to electronic format (object detection text analysis)) and sending to the relevant department| In progress
+NHS Form Digitisation|Automated conversion of patient forms from pen and paper to electronic format (object detection text analysis) and sending to the relevant department| In progress
 Student Churn Model| Analysis of factors behind student drop out rates (Tensorflow neural network) in Higher Education to predict churn (Fully anonymised, with randomly transformed data for GitHub)| Unscoped
 Real-Time Airsoft Aim-Support AI|Ensemble product that will detect audio, apply object detection, and apply regression analysis to provide a heads-up aim-assist display, and record gameplay statistics <i> This is going to be seriously cool... |Scoped
 Product Hub Survey Review|Analysis of questionnaire results (NLP) |Unscoped
+Bird Audio Identification Tool | Deep learning audio classification' tool to identify species from long duration wildlife survey recordings | Done
+Great Crested Newt location analysis | Extraction of geographical covariates around DEFRA/Natural England surveyed ponds and automated training and tuning of various ML architecture to elucidate environmental relationships and predict newt populations at a district level | Done
+
