@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="#">Computer Vision Object Detection</a> |
+  <href="#">Computer Vision Object Detection</a> |
   <a href="#">Machine learning</a> |
   <a href="#">Deep learning</a> |
   <a href="#">GIS analysis</a> |
