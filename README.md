@@ -3,10 +3,10 @@
 
 <p align="center">
   <href="#">Computer Vision Object Detection</a> |
-  <a href="#">Machine learning</a> |
-  <a href="#">Deep learning</a> |
-  <a href="#">GIS analysis</a> |
-  <a href="#">Data warehousing ETL</a>
+  <href="#">Machine learning</a> |
+  <href="#">Deep learning</a> |
+  <href="#">GIS analysis</a> |
+  <href="#">Data warehousing ETL</a>
   <br><br>
 </p>
 <p align="center">
