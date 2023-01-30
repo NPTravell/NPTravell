@@ -1,7 +1,7 @@
 ### Hi, I'm Nathan 👋
 
 
-#### <p align="center"> Computer Vision Object Detection | Machine learning| GIS analysis| Data warehousing ETL </p>
+### <p align="center"> Computer Vision Object Detection | Machine learning | GIS analysis | Data warehousing ETL </p>
 
 <p align="center">
 <img align="centre" alt="SQL" width="40px" style="padding-right:10px;" src="https://www.svgrepo.com/show/120229/sql.svg" /> 
@@ -17,7 +17,11 @@
 <img align="centre" alt="TF" width="40px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <br></p>
 <p align="center"><i> 
-  Utilising unique data science perspectives acquired from a diverse interdisciplinary career, I provide machine learning solutions to small organisations,          particularly those of environmental nature</i>
+  Utilising unique data science perspectives acquired from working with diverse international partners and interdisciplinary cutting-edge research institutions, I provide scalable machine learning solutions to small environmental and conservation organisations, to unlock the value hidden within their data and gain a competitive advantage</i>
+  
+ 
+  
+  
 </p>
 
 ---
@@ -27,7 +31,7 @@
 
 📈 Predictive analytics
    
-📊 Data visualisation (Tableau, PowerBI, Streamlit)
+📊 Data visualisation 
 
 🌎 Geographical covariate extraction
 
@@ -43,6 +47,6 @@ NHS Form Digitisation|Automated conversion of patient forms from pen and paper t
 Student Churn Model| Analysis of factors behind student drop out rates (Tensorflow neural network) in Higher Education to predict churn (Fully anonymised, with randomly transformed data for GitHub)| Unscoped
 Real-Time Airsoft Aim-Support AI|Ensemble product that will detect audio, apply object detection, and apply regression analysis to provide a heads-up aim-assist display, and record gameplay statistics <i> This is going to be seriously cool... |Scoped
 Product Hub Survey Review|Analysis of questionnaire results (NLP) |Unscoped
-Bird Audio Identification Tool | Deep learning audio classification' tool to identify species from long duration wildlife survey recordings | Done
-Great Crested Newt location analysis | Extraction of geographical covariates around DEFRA/Natural England surveyed ponds and automated training and tuning of various ML architecture to elucidate environmental relationships and predict newt populations at a district level | Done
+Bird Audio Identification Tool | Deep learning audio classification' tool to identify species from long duration wildlife survey recordings | [Done](https://github.com/NPTravell/Bird-Species-Audio-Identification-Tool)
+Great Crested Newt location analysis | Extraction of geographical covariates around DEFRA/Natural England surveyed ponds and automated training and tuning of various ML architecture to elucidate environmental relationships and predict newt populations at a district level | [Done](https://github.com/NPTravell/Great-Crested-Newt-Pond-Analysis)
 
