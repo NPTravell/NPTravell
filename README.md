@@ -17,7 +17,7 @@
 <img align="centre" alt="TF" width="40px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <br></p>
 <p align="center"><i> 
-  Utilising unique data science perspectives acquired from working with diverse international partners and cutting-edge research within interdisciplinary institutions, I provide scalable machine learning solutions to small environmental and conservation organisations, to unlock the value hidden within their data and gain a competitive advantage</i>
+  Utilising unique data science perspectives acquired from working with diverse international partners and cutting-edge research within interdisciplinary institutions, I provide scalable machine learning solutions to institutions to unlock the value hidden within their data and gain a competitive advantage</i>
   
  
   
