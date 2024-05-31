@@ -27,15 +27,13 @@
 ---
 ### Key skills:
 
-🖧 ETL data pipeline automation
-
 📈 Predictive analytics
    
 📊 Data visualisation 
 
 🌎 Geographical covariate extraction
 
-🧑 Engaging stakeholders with varying technical expertise - from those unfamiliar with even Excel, to leading industry experts
+🧑 Engaging stakeholders with varying technical expertise - from those unfamiliar with Excel, to leading industry experts
 
 #
 
