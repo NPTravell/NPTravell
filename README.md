@@ -42,7 +42,7 @@
 Project|Description|Status
 |---|---|---|
 Product Hub Survey Review|Analysis of questionnaire results (NLP) | Scoped
-  Student Churn Model| Analysis of factors behind student drop out rates (stacked generalisation 'super leaner' ensemble) in Higher Education to predict churn (Fully anonymised, with randomly transformed data for GitHub)| [Done](https://github.com/NPTravell/Student-Withdrawal-Prediction-Model)
+  Customer Churn Model| Analysis of factors behind customer drop out rates (stacked generalisation 'super leaner' ensemble) to predict churn (Fully anonymised, with randomly transformed data for GitHub)| [Done](https://github.com/NPTravell/Student-Withdrawal-Prediction-Model)
 Bird Audio Identification Tool | Deep learning audio classification' tool to identify species from long duration wildlife survey recordings | [Done](https://github.com/NPTravell/Bird-Species-Audio-Identification-Tool)
 Great Crested Newt location analysis | Extraction of geographical covariates around DEFRA/Natural England surveyed ponds and automated training and tuning of various ML architecture to elucidate environmental relationships and predict newt populations at a district level | [Done](https://github.com/NPTravell/Great-Crested-Newt-Pond-Analysis)
 
