@@ -37,7 +37,7 @@
 
 #
 
-### Planned Real-World Project Uploads
+### Planned Real-World Project Uploads (being updated for September 2024)
 
 Project|Description|Status
 |---|---|---|
